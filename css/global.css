@@ -1,10 +1,40 @@
 body {
-    /*background-color: #59C9A5;
-    font-size: 80px;*/
+    background-color: #C9A690;
 }
-.red-text{
-    color: red;
+.gold-text{
+    color: gold;
+    background-color: purple;
+    text-decoration: none;
 }
-.big-font{
-    font-size: 500px;
+#basketball{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.floating-image{
+    float:right;
+    width: 380px;
+}
+.float-image{
+    float:inherit;
+}
+.link-color{
+    text-decoration: none;
+    color: gold;
+}
+img{
+    border-radius:15px;
+}
+h1{
+    font-size:50px;
+    text-align: center;
+}
+h2{
+    font-size:30px;
+}
+p{
+    font-size:15px;
+}
+.footer-text{
+    text-align: center;
 }
